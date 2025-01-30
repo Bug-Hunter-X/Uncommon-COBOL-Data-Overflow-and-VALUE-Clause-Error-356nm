@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon COBOL error related to the VALUE clause and potential data overflow. The program adds a large number to a field, repeatedly. While it works for the declared field size, it illustrates how exceeding field limits can lead to unexpected results. The solution offers a fix to handle this.
